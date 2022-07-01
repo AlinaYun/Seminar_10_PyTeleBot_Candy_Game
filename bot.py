@@ -3,6 +3,8 @@ from telebot import types
 import time
 import random
 
+# название бота @CandyGameTestBot
+
 with open('Token.txt', 'r') as f:
     Token = f.read()
 
